@@ -2,7 +2,7 @@
 A list of windows potatoes!
 
 **Potato Name**|**Description**|**Read More**
-:-----:|:-----:|:-----:
+-----:|:-----|:-----
 Hot Potato|Hot potato is the code name of a Windows privilege escalation technique that was discovered by Stephen Breen. This technique is actually a combination of two known windows issues  like NBNS spoofing and NTLM relay with the implementation of a fake WPAD proxy server which is running locally on the target host.|https://pentestlab.blog/2017/04/13/hot-potato/
 Rotten Potato|-|https://github.com/breenmachine/RottenPotatoNG
 Lonely Potato|Rotten Potato but without meterpreter and the incognito module|https://decoder.cloud/2017/12/23/the-lonely-potato/
